@@ -1,9 +1,10 @@
 # Projeto_Urna
-Um sistema de Urna Eletrônica que armazena os cadastros dos usuários e os votos feitos.
+A Electronic Voting System that stores user registrations and votes cast.
 # Urna
-O projeto consiste em uma Urna Eletrônica e foi desenvolvido nas seguintes Linguagens: C# e MySQL WorkBench. 
-Pode ser Utilizada pela escola e foi desenvolvida por mim e por @LiviaDslk.
-Utilizamos do modelo Windows Forms(.NET framework) do C#.
-Obrigado pela sua atenção. :)
+The project consists of an Electronic Urn and was developed in the following languages: C# and MySQL WorkBench.
+It can be used by the school and was developed by me and my group partner Lívia Nicole.
+We use the Windows Forms(.NET framework) model.
+The project was very cool and fun to develop :)
+Thank you for your attention.
 
-Console.WriteLine("Sejam Bem Vindos!");
+Console.WriteLine("Be welcome!");
